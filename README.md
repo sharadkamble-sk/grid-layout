@@ -1,2 +1,2 @@
 # grid-layout
-This is a grid layout using HTML,css,Bootstrap
+This is a grid layout using HTML,CSS,Bootstrap
